@@ -1,1 +1,1 @@
-local ScriptBaseUrl = "https://raw.githubusercontent.com/BLACK-Hub/main/scripts/"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadxfs1-source/BLACK-Hub/main/Black-Hub.lua"))()
